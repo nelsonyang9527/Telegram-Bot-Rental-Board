@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-rental-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "slimbot": "^4.6.3"
+  }
+}

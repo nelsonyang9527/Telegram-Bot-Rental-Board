@@ -1,0 +1,5 @@
+{
+    "standard.autoFixOnSave": true,
+    "standard.run": "onType",
+    "standard.enable": true,
+}
